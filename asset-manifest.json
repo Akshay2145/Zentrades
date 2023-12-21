@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zentrades/static/css/main.aa5f8772.css",
+    "main.js": "/Zentrades/static/js/main.4790d391.js",
+    "index.html": "/Zentrades/index.html",
+    "main.aa5f8772.css.map": "/Zentrades/static/css/main.aa5f8772.css.map",
+    "main.4790d391.js.map": "/Zentrades/static/js/main.4790d391.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa5f8772.css",
+    "static/js/main.4790d391.js"
+  ]
+}
